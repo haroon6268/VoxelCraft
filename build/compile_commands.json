@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/haroon/minecraft/build",
+  "command": "/usr/bin/clang++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -I/Users/haroon/minecraft/include -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OpenGL.dir/main.cpp.o -c /Users/haroon/minecraft/main.cpp",
+  "file": "/Users/haroon/minecraft/main.cpp",
+  "output": "CMakeFiles/OpenGL.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/haroon/minecraft/build",
+  "command": "/usr/bin/clang  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -I/Users/haroon/minecraft/include -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OpenGL.dir/glad.c.o -c /Users/haroon/minecraft/glad.c",
+  "file": "/Users/haroon/minecraft/glad.c",
+  "output": "CMakeFiles/OpenGL.dir/glad.c.o"
+},
+{
+  "directory": "/Users/haroon/minecraft/build",
+  "command": "/usr/bin/clang++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -I/Users/haroon/minecraft/include -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OpenGL.dir/Application.cpp.o -c /Users/haroon/minecraft/Application.cpp",
+  "file": "/Users/haroon/minecraft/Application.cpp",
+  "output": "CMakeFiles/OpenGL.dir/Application.cpp.o"
+},
+{
+  "directory": "/Users/haroon/minecraft/build",
+  "command": "/usr/bin/clang++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -I/Users/haroon/minecraft/include -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OpenGL.dir/Window.cpp.o -c /Users/haroon/minecraft/Window.cpp",
+  "file": "/Users/haroon/minecraft/Window.cpp",
+  "output": "CMakeFiles/OpenGL.dir/Window.cpp.o"
+},
+{
+  "directory": "/Users/haroon/minecraft/build",
+  "command": "/usr/bin/clang++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -I/Users/haroon/minecraft/include -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OpenGL.dir/Renderer.cpp.o -c /Users/haroon/minecraft/Renderer.cpp",
+  "file": "/Users/haroon/minecraft/Renderer.cpp",
+  "output": "CMakeFiles/OpenGL.dir/Renderer.cpp.o"
+},
+{
+  "directory": "/Users/haroon/minecraft/build",
+  "command": "/usr/bin/clang++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks -I/Users/haroon/minecraft/include -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OpenGL.dir/Shader.cpp.o -c /Users/haroon/minecraft/Shader.cpp",
+  "file": "/Users/haroon/minecraft/Shader.cpp",
+  "output": "CMakeFiles/OpenGL.dir/Shader.cpp.o"
+}
+]

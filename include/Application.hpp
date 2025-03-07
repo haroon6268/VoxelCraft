@@ -12,4 +12,5 @@ class Application{
     int width;
     Window window; 
     Renderer renderer; 
+    Camera camera;
 };

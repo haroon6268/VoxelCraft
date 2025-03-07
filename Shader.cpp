@@ -85,3 +85,11 @@ void Shader::checkLink(){
 void Shader::use(){
     glUseProgram(ID);
 }
+
+void Shader::setMat4f(const std::string &loc, const glm::mat4 &val){
+    glUniformMatrix4fv(glGetUniformLocation(ID, loc.c_str()), 1, GL_FALSE, glm::value_ptr(val));
+}
+
+void Shader::setTexture(unsigned int textureNumber){
+    glUniform1i(glGetUniformLocation(ID, "inTexture"), textureNumber);
+}

@@ -12,7 +12,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/haroon/minecraft/Application.cpp" "CMakeFiles/OpenGL.dir/Application.cpp.o" "gcc" "CMakeFiles/OpenGL.dir/Application.cpp.o.d"
   "/Users/haroon/minecraft/Renderer.cpp" "CMakeFiles/OpenGL.dir/Renderer.cpp.o" "gcc" "CMakeFiles/OpenGL.dir/Renderer.cpp.o.d"
   "/Users/haroon/minecraft/Shader.cpp" "CMakeFiles/OpenGL.dir/Shader.cpp.o" "gcc" "CMakeFiles/OpenGL.dir/Shader.cpp.o.d"
+  "/Users/haroon/minecraft/Texture.cpp" "CMakeFiles/OpenGL.dir/Texture.cpp.o" "gcc" "CMakeFiles/OpenGL.dir/Texture.cpp.o.d"
   "/Users/haroon/minecraft/Window.cpp" "CMakeFiles/OpenGL.dir/Window.cpp.o" "gcc" "CMakeFiles/OpenGL.dir/Window.cpp.o.d"
+  "/Users/haroon/minecraft/camera.cpp" "CMakeFiles/OpenGL.dir/camera.cpp.o" "gcc" "CMakeFiles/OpenGL.dir/camera.cpp.o.d"
   "/Users/haroon/minecraft/main.cpp" "CMakeFiles/OpenGL.dir/main.cpp.o" "gcc" "CMakeFiles/OpenGL.dir/main.cpp.o.d"
   )
 
